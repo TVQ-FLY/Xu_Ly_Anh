@@ -1,0 +1,31 @@
+1. import thư viện
+2. đọc ảnh
+3. thay đổi kích thước ảnh
+4. thay đổi kích thước ảnh trong trackbar
+5. ảnh xám
+6. ảnh âm bản
+7. in giá trị màu có toạ độ nhập vào
+8. phân ngưỡng nhị phân
+9. phân ngưỡng thích nghi
+10. phân ngưỡng otsu
+11. lọc trung bình
+12. filter2D
+13. lọc trung vị
+14. lọc gaussianBlur
+15. lọc song phương
+16. tách biên Canny
+17. tách biên Sobel
+18. tách biên Laplacian
+19. co giãn, đóng mở ảnh
+20. vẽ contours
+21. cắt ảnh biết toạ độ 2 điểm, chiều rộng chiều cao, toạ độ trên trái, chiều rộng chiều cao
+22. thay đổi độ sáng, tương phản
+23. xoay ảnh
+24. dịch ảnh
+25. lấy khoảng trackbar
+26. thu phóng ảnh
+27. tạo điều kiện cho trackbar
+28. tạo trackbar
+29. hiện ảnh trên matplotlib
+30. show ảnh
+31. dừng chương trình và đóng

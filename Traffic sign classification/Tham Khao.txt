@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=G81ZpQzZALg&list=WL&index=7
+
+https://data-flair.training/blogs/python-project-traffic-signs-recognition/
+
+https://www.geeksforgeeks.org/traffic-signs-recognition-using-cnn-and-keras-in-python/

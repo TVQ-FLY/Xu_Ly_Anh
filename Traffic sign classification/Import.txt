@@ -1,0 +1,5 @@
+pip install tensorflow keras sklearn matplotlib pandas pil
+
+pip3 install pandas
+
+pip install matplotlib
